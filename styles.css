@@ -1,0 +1,40 @@
+/* CSS document */
+
+body {
+	margin: 0 0;
+}
+
+h1 {
+	font-family: 'Smooch', cursive;
+	font-size: 48px;
+	margin: 0 auto;
+}
+
+p {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.title {
+	text-align: center;
+}
+
+.subtitle {
+	margin: -8px 0px auto auto;
+	font-size: 18px;
+}
+
+.menubar {
+	text-align: center;
+	background-color: black;
+	margin: 0;
+	padding: 0;
+}
+
+
+.menu-item {
+	display: inline;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	margin: 0 4px;
+}
